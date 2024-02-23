@@ -1,2 +1,4 @@
-value1,value2
-值1,值2
+name,address,power,voltage,status,note
+梧州检测点,梧州,458,123,启用,梧州
+柳州检测点,柳州,458,123,启用,在柳州
+桂林检测点,桂林,458,123,启用,在桂林
