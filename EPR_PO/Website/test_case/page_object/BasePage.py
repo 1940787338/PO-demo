@@ -1,8 +1,5 @@
-from selenium.webdriver.remote.webdriver import WebDriver
-
-
 class Page:
-    def __init__(self, driver: WebDriver):
+    def __init__(self, driver):
         self.baseurl = 'http://www.mobin.love:10001/#'
         self.driver = driver
 
